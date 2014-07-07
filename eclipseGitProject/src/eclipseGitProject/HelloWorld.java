@@ -5,7 +5,7 @@ public class HelloWorld {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		
-		int n2;
+		int n4;
 
 		
 		System.out.println("Hello World");
